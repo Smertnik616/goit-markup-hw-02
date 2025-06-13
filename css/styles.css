@@ -69,11 +69,15 @@ color: #FFFFFF;
 .hero-button {
 background-color: #4D5AE5;
 color: #FFFFFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
 border-radius: 4px;
 width: 169px;
 height: 56px;
 cursor: pointer;
-border: none; 
+/* border: none;  */
 }
 
 .hero-button:hover,
@@ -83,4 +87,21 @@ background-color: #404BBF;
 
 
 /* hero banner end */
+/*reference start*/
+.cls-h2 {
+    color: #2e2f42 ;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    
 
+}
+
+.cls-p {
+line-height: 1.5;
+letter-spacing: 0.02em
+}
+
+
+/*reference end*/
