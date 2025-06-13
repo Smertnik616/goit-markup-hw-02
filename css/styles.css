@@ -1,0 +1,86 @@
+* {
+list-style: none;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    display: flex;
+}
+/* header nav start */
+.logo-link {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-span {
+    color: #2e2f42;
+}
+
+.site-nav {
+    list-style: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.link:hover,
+.link:focus  {
+    color: #404bbf;
+}
+
+.adr-nav {
+    font-style: normal;
+}
+
+
+a,
+.link {
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+/* header nav end */
+
+
+/* hero banner start */
+.hero-banner {
+background-color: #2E2F42;
+color: #FFFFFF;
+width: 1440px;
+height: 600px;
+
+}
+.hero-banner h1 {
+    font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+}
+
+.hero-button {
+background-color: #4D5AE5;
+color: #FFFFFF;
+border-radius: 4px;
+width: 169px;
+height: 56px;
+cursor: pointer;
+border: none; 
+}
+
+.hero-button:hover,
+.hero-button:focus {
+background-color: #404BBF;
+}
+
+
+/* hero banner end */
+
