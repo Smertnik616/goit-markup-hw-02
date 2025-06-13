@@ -6,7 +6,6 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    display: flex;
 }
 /* header nav start */
 .logo-link {
@@ -58,7 +57,7 @@ height: 600px;
 
 }
 .hero-banner h1 {
-    font-weight: 700;
+font-weight: 700;
 font-size: 56px;
 line-height: 107%;
 letter-spacing: 0.02em;
@@ -74,8 +73,6 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 border-radius: 4px;
-width: 169px;
-height: 56px;
 cursor: pointer;
 /* border: none;  */
 }
