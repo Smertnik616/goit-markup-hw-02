@@ -105,3 +105,55 @@ letter-spacing: 0.02em
 
 
 /*reference end*/
+
+/* team-section start */
+.team-section {
+background-color: #F4F4FD
+}
+.cls-h2 {
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color:#2e2f42;
+}
+.team {
+background-color: #FFFFFF
+}
+.team-member {
+
+}
+.c-h3 {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.cls-p {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+/* team-section end */
+
+/* Portfolio section start */
+.portfolio-section {
+    
+}
+.h2-port {
+    
+}
+.portfolio {
+    
+}
+.portfolio-item {
+    
+}
+.c-h3 {
+    
+}
+.cls-p {
+    
+}
+/* Portfolio section end */
