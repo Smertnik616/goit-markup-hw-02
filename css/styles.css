@@ -159,7 +159,7 @@ letter-spacing: 0.02em;
 /* Portfolio section end */
 
 /* footer start */
-.footer {
+.pool {
 background-color: #2E2F42;
 }
 
@@ -167,15 +167,9 @@ background-color: #2E2F42;
 color:#f4f4fd ;
 }
 
-.footer-p {
+.pool-p {
 color: #F4F4FD;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 /* footer end */
-
-ul, ol {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
