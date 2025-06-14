@@ -63,7 +63,7 @@ a,
 /* header nav end */
 
 
-/* hero banner start */
+/* 1 hero banner start */
 .hero-banner {
 background-color: #2E2F42;
 color: #FFFFFF;
@@ -98,7 +98,7 @@ background-color: #404BBF;
 
 /* hero banner end */
 
-/*reference start*/
+/* 2 reference start*/
 
 .cls-h2 {
     color: #2e2f42;
@@ -106,8 +106,14 @@ background-color: #404BBF;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    
+}
 
+.cls-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .cls-p {
@@ -118,40 +124,38 @@ letter-spacing: 0.02em
 
 /*reference end*/
 
-/* team-section start */
+/*3 team-section start */
 
 .team-section {
 background-color: #F4F4FD
 }
-.cls-h2 {
+/* .cls-h2 {
 font-size: 36px;
 line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color:#2e2f42;
-}
-.team {
+} */
+.team-members {
 background-color: #FFFFFF
 }
-.team-member {
 
-}
 .c-h3 {
-font-weight: 500;
+/* font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
-}
+} */
 .cls-p {
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 /* team-section end */
 
-/* Portfolio section start */
-.portfolio-section {
+/* 4 Portfolio section start */
+/* .portfolio-section {
 
 }
 .h2-port {
@@ -168,7 +172,7 @@ letter-spacing: 0.02em;
 }
 .cls-p {
 
-}
+} */
 /* Portfolio section end */
 
 /* footer start */
