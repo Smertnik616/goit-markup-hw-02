@@ -18,6 +18,10 @@ body {
     color: #4d5ae5;
 }
 
+.link {
+font-weight: 500;
+}
+
 .logo-span {
     color: #2e2f42;
 }
@@ -36,6 +40,17 @@ body {
 
 .adr-nav {
     font-style: normal;
+}
+
+.link-adr {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455; 
+}
+
+.link-adr:hover,
+.link-adr:focus {
+color: #404bbf ;
 }
 
 
@@ -64,13 +79,13 @@ color: #FFFFFF;
 }
 
 .hero-button {
+font-family: "Roboto", sans-serif;
 background-color: #4D5AE5;
 color: #FFFFFF;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
-border-radius: 4px;
 cursor: pointer;
 /* border: none;  */
 }
@@ -82,9 +97,11 @@ background-color: #404BBF;
 
 
 /* hero banner end */
+
 /*reference start*/
+
 .cls-h2 {
-    color: #2e2f42 ;
+    color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -102,6 +119,7 @@ letter-spacing: 0.02em
 /*reference end*/
 
 /* team-section start */
+
 .team-section {
 background-color: #F4F4FD
 }
