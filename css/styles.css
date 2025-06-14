@@ -101,19 +101,19 @@ background-color: #404BBF;
 /* 2 reference start*/
 
 .cls-h2 {
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
+color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
 
 .cls-h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .cls-p {
@@ -141,17 +141,17 @@ color:#2e2f42;
 background-color: #FFFFFF
 }
 
-.c-h3 {
+/* .c-h3 { */
 /* font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 } */
-.cls-p {
+/* .cls-p {
 line-height: 1.5;
 letter-spacing: 0.02em;
-}
+} */
 /* team-section end */
 
 /* 4 Portfolio section start */
