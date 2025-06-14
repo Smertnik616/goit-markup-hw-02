@@ -100,7 +100,7 @@ background-color: #404BBF;
 
 /* 2 reference start*/
 
-.offer-h2 {
+.offer-ref {
 color: #2e2f42;
 font-weight: 500;
 font-size: 20px;
@@ -108,7 +108,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
-.name-h3 {
+.caption {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
